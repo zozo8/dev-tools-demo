@@ -4,7 +4,7 @@ import { Component } from "@angular/core";
   selector: "flex",
   standalone: true,
   imports: [],
-  templateUrl: "./flex.component.html",
+  templateUrl: "./flex-alt.component.html",
   styleUrl: "./flex.component.css",
 })
 export class FlexComponent {}
